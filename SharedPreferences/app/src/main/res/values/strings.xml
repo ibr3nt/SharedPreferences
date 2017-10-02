@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="favorite_food_key">FAVORITE_FOOD</string>
+</resources>
